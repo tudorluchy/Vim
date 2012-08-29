@@ -1,10 +1,15 @@
-You will find here my vim <i>plugins</i> and <i>configuration</i>(vimrc). Vimrc is quite big but very useful.
+<h1>My Vim Setup<h2>
 
-This setup is good for <b>Web Programming</b> (PHP). C/C++ or Java setup will be added at a later time.
+You will find here my vim plugins and configuration(vimrc). <br/>
+Vimrc is quite big but very useful.
 
-Each plugin I added to Vim is very useful. Take a look to the vimrc file to learn the shortcut keys for each of them.
+This setup is good for <b>Web Programming (PHP)</b>.<br/>
+C/C++ or Java setup will be added at a later time.
 
-Here is my .vim/plugins content :
+Each plugin I added to Vim is very useful. <br/>
+Take a look to the vimrc file to learn the shortcut keys for each of them.
+
+Here is my <b>.vim/plugin</b> content :
 
 AlignMapsPlugin.vim<br/>
 AlignPlugin.vim<br/>
