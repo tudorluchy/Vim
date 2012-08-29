@@ -33,4 +33,4 @@ syntastic.vim<br/>
 taglist.vim<br/>
 yankring.vim<br/>
 
-<i>Tudor Luchiancenco</i>
+                                                                                      <i>Tudor Luchiancenco</i>
