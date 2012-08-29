@@ -33,4 +33,4 @@ Each plugin I added to Vim is very useful. Take a look to the vimrc file to lear
     taglist.vim<br/>
     yankring.vim<br/>
 
-    <i>Tudor Luchiancenco</i>
+  <i>Tudor Luchiancenco</i>
