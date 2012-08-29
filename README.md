@@ -1,6 +1,6 @@
-<h2>My Vim Setup<h2>
+<h1>My Vim Setup<h1>
 
-You will find here my vim plugins and configuration (vimrc, quite big).
+<h3>You will find here my vim plugins and configuration (vimrc, quite big).<h3>
 
 This setup is good for <b>Web Programming (PHP)</b>. C/C++ or Java setup will be added at a later time. 
 
