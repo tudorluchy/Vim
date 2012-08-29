@@ -1,6 +1,6 @@
 <h1>My Vim Setup<h1>
 
-You will find here my vim plugins and configuration (vimrc, quite big).
+You will find here my vim plugins and configuration (vimrc, quite big).<br>
 This setup is good for <b>Web Programming (PHP)</b>. C/C++ or Java setup will be added at a later time. <br/>
 Each plugin I added to Vim is very useful. Take a look to the vimrc file to learn the shortcut keys for each of them.
 
