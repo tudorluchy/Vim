@@ -1,0 +1,2 @@
+Align.vba: call delete('/home/tudor/.vim/plugin/AlignPlugin.vim')|call delete('/home/tudor/.vim/plugin/AlignMapsPlugin.vim')|call delete('/home/tudor/.vim/plugin/cecutil.vim')|call delete('/home/tudor/.vim/doc/Align.txt')|call delete('/home/tudor/.vim/autoload/Align.vim')|call delete('/home/tudor/.vim/autoload/AlignMaps.vim')
+supertab.vmb: call delete('/home/tudor/.vim/doc/supertab.txt')|call delete('/home/tudor/.vim/plugin/supertab.vim')
