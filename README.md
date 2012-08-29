@@ -2,7 +2,7 @@
 
 You will find here my vim plugins and configuration (vimrc, quite big).<br>
 This setup is good for <b>Web Programming (PHP)</b>. C/C++ or Java setup will be added at a later time. <br/>
-Each plugin I added to Vim is very useful. Take a look to the vimrc file to learn the shortcut keys for each of them.
+Each plugin I added to Vim is very useful. Take a look to the vimrc file to learn the shortcut keys and become productive.
 
   Here is my <b>.vim/plugin</b> content :
 
@@ -33,4 +33,4 @@ Each plugin I added to Vim is very useful. Take a look to the vimrc file to lear
     taglist.vim
     yankring.vim
 
-  <i>Tudor Luchiancenco</i>
+  <i>by Tudor Luchiancenco</i>
