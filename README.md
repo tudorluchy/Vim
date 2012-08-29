@@ -1,6 +1,6 @@
-You will find here my vim plugins and configuration(vimrc). Vimrc is quite big but very useful.
+You will find here my vim <b>plugins</b>and <b>configuration</b>(vimrc). Vimrc is quite big but very useful.
 
-This setup is good for Web Programming (PHP). C/C++ or JAVA setup will be added at a later time.
+This setup is good for <b>Web Programming</b> (PHP). C/C++ or Java setup will be added at a later time.
 
 Here is my .vim/plugins content :
 
