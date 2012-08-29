@@ -4,30 +4,30 @@ This setup is good for Web Programming (PHP). C/C++ or JAVA setup will be added 
 
 Here is my .vim/plugins content :
 
-AlignMapsPlugin.vim
-AlignPlugin.vim
-AutoFenc.vim
-bufexplorer.vim
-bufsurf.vim
-cecutil.vim
-EasyMotion.vim
-fuf.vim
-grep.vim
-incbufswitch.vim
-l9.vim
-matchit.vim
-minibufexpl.vim
-mru.vim
-NERD_commenter.vim
-NERD_tree.vim
-phpcomplete.vim
-project.vim
-repeat.vim
-sessionman.vim
-showmarks.vim
-snipMate.vim
-symfony.vim
-syntastic.vim
-taglist.vim
-yankring.vim
+AlignMapsPlugin.vim<br/>
+AlignPlugin.vim<br/>
+AutoFenc.vim<br/>
+bufexplorer.vim<br/>
+bufsurf.vim<br/>
+cecutil.vim<br/>
+EasyMotion.vim<br/>
+fuf.vim<br/>
+grep.vim<br/>
+incbufswitch.vim<br/>
+l9.vim<br/>
+matchit.vim<br/>
+minibufexpl.vim<br/>
+mru.vim<br/>
+NERD_commenter.vim<br/>
+NERD_tree.vim<br/>
+phpcomplete.vim<br/>
+project.vim<br/>
+repeat.vim<br/>
+sessionman.vim<br/>
+showmarks.vim<br/>
+snipMate.vim<br/>
+symfony.vimv
+syntastic.vim<br/>
+taglist.vim<br/>
+yankring.vim<br/>
 
