@@ -1,4 +1,4 @@
-<h1>My Vim Setup<h2>
+<h2>My Vim Setup<h2>
 
 You will find here my vim plugins and configuration(vimrc). <br/>
 Vimrc is quite big but very useful.
