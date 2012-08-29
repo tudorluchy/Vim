@@ -28,7 +28,7 @@ repeat.vim<br/>
 sessionman.vim<br/>
 showmarks.vim<br/>
 snipMate.vim<br/>
-symfony.vimv
+symfony.vim<br/>
 syntastic.vim<br/>
 taglist.vim<br/>
 yankring.vim<br/>
