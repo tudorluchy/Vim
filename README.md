@@ -1,6 +1,6 @@
 <h1>My Vim Setup<h1>
 
-<h4>If you use Vim on a server (no GUI), then go in .vimrc and comment line "colorscheme symfony" and "set t_Co=256"</h4>
+<h5>If you use Vim on a server (no GUI), open .vimrc and comment line "colorscheme symfony" and "set t_Co=256"</h5>
 
 You will find here my vim plugins and configuration (vimrc, quite big).<br>
 This setup is good for <b>Web Programming (PHP)</b>. C/C++ or Java setup will be added at a later time. <br/>
